@@ -1,0 +1,9 @@
+name
+sigOther
+home
+work
+occupancy
+happiness: 33.33
+anger: 33.33
+stress: 33.33
+anxiety: 33.33
